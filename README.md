@@ -1,0 +1,1 @@
+# pos_enable_disable_rights
