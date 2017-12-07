@@ -23,6 +23,9 @@
         'views/res_users_view.xml',
         'views/malik_v.xml',
     ],
+    'images': [
+        'static/description/pos_interface.png',
+    ],
 
     'demo': [
         #'demo/demo.xml',
